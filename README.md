@@ -26,8 +26,8 @@ For access of the data, please contact rsonthal@ucla.edu.
   * Topic Modeling.ipynb
 
 * Topic Modeling on social relations
-  * dataset.ipynb
+  * Dataset.ipynb
   * NCPD.ipynb
-  * node classification.ipynb
-  * node embedding.ipynb
+  * Node Classification.ipynb
+  * Node Embedding.ipynb
 
